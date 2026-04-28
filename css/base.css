@@ -1,0 +1,31 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500xp;
+  font-size: 14xp;
+  letter-spacing: 0.02px;
+  color: rgba(12, 12, 12, 0.7);
+}
+h1,
+h2,
+h3,
+h4,
+p,
+ul {
+  margin: 0;
+}
+
+ul {
+  padding: 0;
+  list-style: none;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}

@@ -1,0 +1,11 @@
+.catalog-title {
+  font-weight: 500;
+  font-size: 20xp;
+  line-height: 1;
+  color: #0c0c0c;
+}
+
+.catalog-text {
+  font-weight: 400;
+  color: rgba(12, 12, 12, 0.5);
+}
